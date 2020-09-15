@@ -11,8 +11,8 @@ metadata:
 spec:
   tls:
     - hosts:
-      - marcusteh.com
-      - www.marcusteh.com
+        - marcusteh.com
+        - www.marcusteh.com
       secretName: marcusteh-com
   rules:
     - host: marcusteh.com
