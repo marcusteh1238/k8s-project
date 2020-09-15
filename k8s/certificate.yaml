@@ -11,10 +11,3 @@ spec:
   dnsNames:
     - marcusteh.com
     - www.marcusteh.com
-  acme:
-    config:
-      - http01:
-          ingressClass: nginx
-        domains:
-          - marcusteh.com
-          - www.marcusteh.com
